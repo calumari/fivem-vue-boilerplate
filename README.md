@@ -1,6 +1,6 @@
 # fivem-vue-boilerplate
 
-# Quick start
+## Quick start
 You need [vue-cli](https://cli.vuejs.org/) 3.x.
 ```
 npm install -g @vue/cli
@@ -31,7 +31,7 @@ files {
 
 ui_page 'html/dist/index.html'
 ```
-# Commands
+## Commands
 ### Run locally for development
 ```
 npm run serve
