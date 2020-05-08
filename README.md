@@ -7,7 +7,7 @@ npm install -g @vue/cli
 ```
 ### 1. Clone repo
 ```
-git clone https://github.com/2277/fivem-vue-boilerplate.git html
+git clone https://github.com/calumari/fivem-vue-boilerplate.git html
 ```
 
 ### 2. Install dependencies
