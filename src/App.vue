@@ -5,8 +5,10 @@
 </template>
 
 <script>
+//Nui helper component
+//import Nui from './utils/Nui';
+
 import HelloWorld from './components/HelloWorld';
-import Nui from './utils/Nui';
 
 export default {
   name: 'app',

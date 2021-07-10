@@ -13,6 +13,9 @@ export default {
       required: true,
     },
   },
+  mounted(){
+    console.log('Hello World')
+  }
 };
 </script>
 

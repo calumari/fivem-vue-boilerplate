@@ -9,23 +9,23 @@
     "prettify": "prettier --write **/*.{js,vue}"
   },
   "dependencies": {
-    "core-js": "^2.6.5",
+    "core-js": "^3.6.5",
     "ifdef-loader": "^2.1.2",
-    "vue": "^2.6.10"
+    "vue": "^2.6.11"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.9.0",
-    "@vue/cli-plugin-eslint": "^3.9.0",
-    "@vue/cli-service": "^4.5.7",
-    "babel-eslint": "^10.0.1",
-    "eslint": "^5.16.0",
-    "eslint-plugin-vue": "^5.0.0",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.30.0",
+    "eslint-plugin-vue": "^7.13.0",
     "html-webpack-inline-source-plugin": "0.0.10",
-    "prettier": "^1.18.2",
-    "sass": "^1.22.7",
-    "sass-loader": "^7.1.0",
-    "serialize-javascript": "^4.0.0",
-    "vue-template-compiler": "^2.6.10"
+    "prettier": "^2.3.2",
+    "sass": "^1.35.2",
+    "sass-loader": "~10.1.1",
+    "serialize-javascript": "^6.0.0",
+    "vue-template-compiler": "^2.6.14"
   },
   "eslintConfig": {
     "root": true,
