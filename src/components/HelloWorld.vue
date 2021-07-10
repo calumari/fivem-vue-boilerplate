@@ -14,7 +14,7 @@ export default {
     },
   },
   mounted(){
-    console.log('Hello Word')
+    console.log('Hello World')
   }
 };
 </script>
